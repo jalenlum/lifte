@@ -1,0 +1,1 @@
+export const rootUrl = "https://lfite.pro/api/";
