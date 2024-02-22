@@ -21,9 +21,9 @@ export const HomePage = () => {
           </div>
         </div>
         <div className="row text-center justify-content-between mt-5">
-          {renderFeature('/lifte/onerepmax.html', 'One Rep Max', 'Estimate your max weight liftable for one repetition based on performance')}
-          {renderFeature('/lifte/smolovjr.html', 'Smolov Jr.', 'Generate an intense three-week training program to increase strength')}
-          {renderFeature('/lifte/contact.html', 'Contact Us', 'Drop a message or ask anything using our contact form')}
+          {renderFeature('/onerepmax.html', 'One Rep Max', 'Estimate your max weight liftable for one repetition based on performance')}
+          {renderFeature('/smolovjr.html', 'Smolov Jr.', 'Generate an intense three-week training program to increase strength')}
+          {renderFeature('/contact.html', 'Contact Us', 'Drop a message or ask anything using our contact form')}
         </div>
       </div>
       <Footer />
