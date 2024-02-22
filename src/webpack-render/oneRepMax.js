@@ -1,5 +1,6 @@
 import { createRoot } from "react-dom/client";
 import React from "react";
+import ReactDOM from "react-dom";
 import { OneRepMaxPage } from "../pages/oneRepMaxPage";
 
 // Clear the existing HTML content
